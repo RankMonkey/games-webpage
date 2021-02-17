@@ -21,3 +21,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## website
 ![Home page](/Capture.JPG)
+
+### what's the page about
+Website navigates to different pages each page something different
